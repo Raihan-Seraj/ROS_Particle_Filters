@@ -1,0 +1,2 @@
+set(aquaautopilot_MESSAGE_FILES "/media/raihan/Work/studies/McGill/Intelligent_Robotics/Assignment1/src/aquaautopilot/msg/UberpilotStatus.msg")
+set(aquaautopilot_SERVICE_FILES "")
